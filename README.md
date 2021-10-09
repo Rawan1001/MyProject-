@@ -13,8 +13,7 @@ at to distribute the event flyer and advertise for the charity work.
 - The stations where people are more likely to donate or attend the event due to 
 economic status.
 
-# The primary data I am going to use in this model is the MTA Turnstile data obtained 
-# from the official website:
+# The primary data I am going to use in this model is the MTA Turnstile data obtained from the official website:
 o http://web.mta.info/developers/turnstile.html
 • Also, I will be using the census data to determine what are the wealthiest
 neighbourhoods (high household income), in New York city.
