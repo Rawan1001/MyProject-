@@ -18,6 +18,13 @@ at to distribute the event flyer and advertise for the charity work.
 -  https://data.cccnewyork.org/data/table/66/median-incomes#66/107/62/a/a
 -  I would be using the data of summer 2019 which is the months from late May through early-mid October, so the months I will collect data from are:
 - June, July, August, September of the year 2019.
+ 
+# The approach:
+- First, I collected the data and concat it into one CSV file.
+- Then, I started to clean the data by searching for null values, in which I found none.
+- After that, I got rid of duplicated rows and dropped the DESC column. 
+- fixing the counter for cumulative entries and exists was next, after, I started plotting the data to get a better understanding. 
+- I loaded the new set of data for the wealthiest neighbourhoods and connected it by matching the stations names.
 
 # My Recommendation:
 - Placement of volunteers near the top ten stations during the morning-afternoon period, in these stations:
