@@ -27,7 +27,7 @@ at to distribute the event flyer and advertise for the charity work.
 - Finally, the new set of data loaded for the wealthiest neighbourhoods and connected it to MTA data by matching the stations names.
 - Top Ten stations plot:
 
-![Top 10 Busiest Stations in wealthiest NeighborhoodsBarplot](https://user-images.githubusercontent.com/90554959/136706471-b8a5444d-cbc5-4751-aed3-034a6171ae52.PNG)
+![Top ten statios](https://user-images.githubusercontent.com/90554959/136706504-eeb9dca6-0a13-4daa-9f3f-1d2694bfcec9.PNG)
 
 # My Recommendation:
 - Placement of volunteers near the top ten stations during the morning-afternoon period, in these stations:
