@@ -8,7 +8,7 @@ with the wealthiest neighborhoods in the city.
 
 ![Picture1](https://user-images.githubusercontent.com/90554959/136674522-4ebf0450-4e71-4043-8db7-ae4c755db682.png)
 
-- In the graph above we can clearly see the top 10 stations. 
+- In the graph above we can clearly see the top 10 stations for the MTA data. 
  
 ![Picture2](https://user-images.githubusercontent.com/90554959/136674536-90503450-fb38-4e35-bde2-c1b695ba8572.png)
 
