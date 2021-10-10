@@ -6,7 +6,7 @@ are throwing for children with cancer. The organization expect to achieve these 
 - Getting enough exposure to advertise for the event and the organization work. 
 - Target the high-to-medium-income commuters of the subway in New York city.
 
-# My plan in the project is to find:
+# The plan in the project is to find:
 - What the stations that have a lot of commuters during the morning/noon
 period. To determine what are the best places that volunteers can be assigned 
 at to distribute the event flyer and advertise for the charity work.
@@ -14,17 +14,17 @@ at to distribute the event flyer and advertise for the charity work.
 
 # The primary data I am going to use in this model is the MTA Turnstile data obtained from the official website:
 -  http://web.mta.info/developers/turnstile.html
-- Also, I will be using the census data to determine what are the wealthiest neighbourhoods (high household income), in New York city.
+- Also, I used census data to determine what are the wealthiest neighbourhoods (high household income), in New York city.
 -  https://data.cccnewyork.org/data/table/66/median-incomes#66/107/62/a/a
--  I would be using the data of summer 2019 which is the months from late May through early-mid October, so the months I will collect data from are:
+-  The data analyzed are from summer 2019 which is the months from late May through early-mid October, so the months I will collect data from are:
 - June, July, August, September of the year 2019.
  
 # The approach:
-- First, I collected the data and concat it into one CSV file.
-- Then, I started to clean the data by searching for null values, in which I found none.
-- After that, I got rid of duplicated rows and dropped the DESC column. 
-- fixing the counter for cumulative entries and exists was next, after, I started plotting the data to get a better understanding. 
-- I loaded the new set of data for the wealthiest neighbourhoods and connected it by matching the stations names.
+- First, the data was collected and concat it into one CSV file, and then added to the SQL database using SQL3.
+- Then, the data was cleaned by searching for null values, in which I found none.
+- After that, getting rid of duplicated rows and dropped unnecessary columns. 
+- Fixing the counter for cumulative entries and exists was next, after, plotting the data to get a better understanding of the data. 
+- Finally, the new set of data loaded for the wealthiest neighbourhoods and connected it to MTA data by matching the stations names.
 
 # My Recommendation:
 - Placement of volunteers near the top ten stations during the morning-afternoon period, in these stations:
