@@ -1,8 +1,7 @@
-# MyProject- 
+# Abstract- 
 In this project the task is to use the MTA turnstile Data to help a non-profit organization
 called ‘The kids are the future’, hand out an event flyer to the summer charity event that they 
 are throwing for children with cancer. The organization expect to achieve these goals:
-
 - Getting enough exposure to advertise for the event and the organization work. 
 - Target the high-to-medium-income commuters of the subway in New York city.
 
@@ -12,14 +11,15 @@ period. To determine what are the best places that volunteers can be assigned
 at to distribute the event flyer and advertise for the charity work.
 - The stations where people are more likely to donate or attend the event due to economic status.
 
-# The primary data I am going to use in this model is the MTA Turnstile data obtained from the official website:
--  http://web.mta.info/developers/turnstile.html
+# Design & Data:
+- The primary data i used is in this model is the MTA Turnstile data obtained from the official website:
+- http://web.mta.info/developers/turnstile.html
 - Also, I used census data to determine what are the wealthiest neighbourhoods (high household income), in New York city.
 -  https://data.cccnewyork.org/data/table/66/median-incomes#66/107/62/a/a
 -  The data analyzed are from summer 2019 which is the months from late May through early-mid October, so the months I will collect data from are:
 - June, July, August, September of the year 2019.
  
-# The approach:
+# Algorithms & communication:
 - First, the data was collected and concat it into one CSV file, and then added to the SQL database using SQL3.
 - Then, the data was cleaned by searching for null values, in which I found none.
 - After that, getting rid of duplicated rows and dropped unnecessary columns. 
@@ -28,6 +28,7 @@ at to distribute the event flyer and advertise for the charity work.
 - Top Ten stations plot:
 
 ![Top ten statios](https://user-images.githubusercontent.com/90554959/136706504-eeb9dca6-0a13-4daa-9f3f-1d2694bfcec9.PNG)
+
 
 # My Recommendation:
 - Placement of volunteers near the top ten stations during the morning-afternoon period, in these stations:
