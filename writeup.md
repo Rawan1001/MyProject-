@@ -25,6 +25,9 @@ at to distribute the event flyer and advertise for the charity work.
 - After that, getting rid of duplicated rows and dropped unnecessary columns. 
 - Fixing the counter for cumulative entries and exists was next, after, plotting the data to get a better understanding of the data. 
 - Finally, the new set of data loaded for the wealthiest neighbourhoods and connected it to MTA data by matching the stations names.
+- Top Ten stations plot:
+
+![Top 10 Busiest Stations in wealthiest NeighborhoodsBarplot](https://user-images.githubusercontent.com/90554959/136706471-b8a5444d-cbc5-4751-aed3-034a6171ae52.PNG)
 
 # My Recommendation:
 - Placement of volunteers near the top ten stations during the morning-afternoon period, in these stations:
